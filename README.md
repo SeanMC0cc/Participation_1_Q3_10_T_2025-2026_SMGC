@@ -1,0 +1,1 @@
+# Participation_1_Q3_10_T_2025-2026_SMGC
