@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #7b91b7;
+    margin: 20px;
+}
+.design {
+    background-color: #635ea8;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 200px auto;
+}
+#Temperature {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 80%;
+    margin-bottom: 20px;
+}
+#button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #53a6b6;
+    color: white;
+    cursor: pointer;
+}  
